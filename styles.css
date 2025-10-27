@@ -1,1 +1,19 @@
 /* your code */
+table {
+	border-collapse : separate;
+	border-spacing : 0px;
+	border-radius : 5px;
+	overflow : hidden
+}
+
+thead {
+	background-color : skyblue;
+}
+
+tbody {
+	background-color : grey;
+}
+
+td ,th {
+	text-align : center;
+}
